@@ -36,4 +36,8 @@
 
     local ColorToggle = testSection:AddToggle("ColorPicker w/Toggle", false, function(e)
 
-# more soon....
+# DropDown
+
+    testSection:AddDropdown("Dropdown", {"here", "here", "here", "here"}, "here", true, function(dropdown)
+
+# more soon...
