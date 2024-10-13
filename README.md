@@ -12,7 +12,7 @@
 
     local AimingTab = Window:CreateTab("Tab 1")
 
- # something that has to be added
+ # section (has to be added)
 
      local testSection = AimingTab:CreateSector("First Section", "left")
 
