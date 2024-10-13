@@ -6,7 +6,7 @@
 
 # making a window
 
-    local Window = Library:CreateWindow("cattoware UI Doc", Vector2.new(492, 598), Enum.KeyCode.RightControl)
+    local Window = Library:CreateWindow("cattoware UI Doc", Vector2.new(500, 400), Enum.KeyCode.RightControl)
 
 # making a tab
 
