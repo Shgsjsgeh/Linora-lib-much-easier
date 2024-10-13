@@ -32,4 +32,8 @@
 
     testSection:AddSlider("Slider", 0, 120, 2000, 1, function(State)
 
+# color picker
+
+    local ColorToggle = testSection:AddToggle("ColorPicker w/Toggle", false, function(e)
+
 # more soon....
